@@ -1,0 +1,9 @@
+
+YUView と Code Runnerをインストール
+YCbCrのYUVファイルはYUV Viewで開ける。
+設定方法は
+>set height 480
+>set wide 720
+>set chr~~ 420
+
+shift + option + f　でコード整理
